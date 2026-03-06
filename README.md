@@ -1,2 +1,2 @@
-https://raw.githubusercontent.com/QichangLei/faces/main/woman.png
-https://raw.githubusercontent.com/QichangLei/faces/main/man.png
+https://raw.githubusercontent.com/QichangLei/CV_repo/main/woman.png
+https://raw.githubusercontent.com/QichangLei/CV_repo/main/man.png
